@@ -1,3 +1,3 @@
-My name is Sai Kumar. 
+#Hello World Project
 
-I am just updating the readme file
+This is a sample proeject 
